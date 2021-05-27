@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9289-BAEE
+
+ Directory of C:\Users\DELL\Desktop\RebaseExample
+
+05/27/2021  07:30 PM    <DIR>          .
+05/27/2021  07:30 PM    <DIR>          ..
+05/27/2021  07:30 PM                 0 m1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  66,494,668,800 bytes free
